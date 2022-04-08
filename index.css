@@ -288,7 +288,7 @@ body {
 }
 .container p {
     font-size:21px;
-    text-indent: 5%;
+    /* text-indent: 5%; */
 }
 .btn_one {
     font-size:18px;
@@ -322,6 +322,10 @@ body {
 .btn_two:hover {
     cursor:pointer;
     padding:8px 60px;
+}
+
+#programs li {
+    font-size: 1.2em;
 }
 
 .container img {
